@@ -1,5 +1,5 @@
 {
-    "name": "huddledigital/zendesk-laravel",
+    "name": "tadeoac3/zendesk-laravel",
     "type": "library",
     "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": [
@@ -33,5 +33,6 @@
             "Huddle\\Zendesk\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
